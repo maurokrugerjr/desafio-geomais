@@ -1,0 +1,20 @@
+.btn {
+	float: right;
+}
+
+#btnES {
+	width: 40px;
+	height: 40px;
+	margin-right: 6px;
+}
+h3 {
+	padding-top: 40px;
+	padding-left: 600px;
+}
+#checkboxMF {
+	padding-top: 33px;
+	padding-left: 10px;
+}
+#checkboxF {
+	padding-left: 27px;
+}
